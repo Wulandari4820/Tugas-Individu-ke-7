@@ -15,7 +15,8 @@
 
 ### 3.  Pak Yunan mengendarai motor dengan dengan kecepatan 180 km/jam. Motor pak Yunan akan menempuh jarak sejauh 50 km untuk sampai di tempat tujuan. Berapa lama waktu yang dibutuhkan Oleh Pak Yunan?
 ![Flow waktu yg dibutuhkan Pak Yunan - Main](https://user-images.githubusercontent.com/93033747/139518270-3ea99d59-162d-4f08-9686-7ae3c912bf3a.png)
-![ak yunan](https://user-images.githubusercontent.com/91447980/139473767-77682305-5609-4be6-a409-f6c20fced418.PNG)
+![ke3](https://user-images.githubusercontent.com/93033747/139518560-b43bb29f-0b47-40ab-949a-e56273c533b2.PNG)
+
 
 
 
